@@ -1,0 +1,6 @@
+//Animal types
+//type;desc;numLegs;numSwings;moving;canFly;canSing;canGrowl;food;maxWeight
+1;0-legged animals;0;0;creep;false;false;false;mice;10.0
+2;bipedal and flightless animals;2;2;walk;false;false;false;fish;6.0
+3;bipedal and flying animals;2;2;walk,fly;true;true;false;seed;1
+4;4-legged animals;4;0;walk,run,jump;false;false;true;raw meat;300.0

@@ -1,0 +1,5 @@
+S01;white snake;2;white;0.8;poisonous=false
+S02;Black snake;2;black;0.72;poisonous=true
+BFLA01;Penguin 01;3;black;3.5;true
+BFLA02;Peafowl 01;3;green;6.0;true
+H01;Heo;4;Nau;80.0;true;true
